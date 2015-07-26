@@ -1,0 +1,13 @@
+project atdict 0.0a1 "Active Tcl Dictionary Package"
+
+homepage http://home.page.url
+provide atdict
+require Tcl 8.6.1
+dist install {
+    %libs
+    docs/*.html
+    docs/man*/*.html
+    README.md
+    LICENSE
+}
+

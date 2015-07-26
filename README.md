@@ -1,2 +1,0 @@
-# atdict
-Active Tcl Dictionaries
